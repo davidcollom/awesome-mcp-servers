@@ -19,6 +19,7 @@
 - [Narasimhaponnada/mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) — ⭐ 53
 - [hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) — ⭐ 1,556 · MPL-2.0 — The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code \(IaC\) development.
 - [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) — ⭐ 2,224 · Apache-2.0 — Model Context Protocol \(MCP\) server for Kubernetes and OpenShift
+- [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) — ⭐ 3 · MIT — DC Hub live data layer for data-center site selection; Data Center Power Index (DCPI) scores grid power across 300+ markets (94 tools, free to start) at https://dchub.cloud/mcp.
 - [pibblokto/cert-manager-mcp-server](https://github.com/pibblokto/cert-manager-mcp-server) — ⭐ 23 · Apache-2.0 — MCP Server for cert-manager
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) — ⭐ 647 · MIT — ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
 - [andyWang1688/sql-query-mcp](https://github.com/andyWang1688/sql-query-mcp) — ⭐ 7 · MIT — A general-purpose MCP server that lets AI work with multiple databases within clear boundaries.
