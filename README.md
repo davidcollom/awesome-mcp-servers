@@ -35,6 +35,7 @@
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) — ⭐ 16,829 · Apache-2.0 — MCP Toolbox for Databases is an open source MCP server for databases.
 - [ashwwwin/furi](https://github.com/ashwwwin/furi) — ⭐ 173 — CLI \& API for MCP management
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) — ⭐ 2,329 · Apache-2.0 — ToolHive is an enterprise-grade platform for running and managing Model Context Protocol \(MCP\) servers.
+- [vaneform/vaneform-mcp](https://github.com/vaneform/vaneform-mcp) — ⭐ 2 · MIT — Hosted MCP for free website traffic lookups (monthly visits, sources, countries, compares) at https://vaneform.com/mcp
 - [vladimir-tutin/plex-mcp-server](https://github.com/vladimir-tutin/plex-mcp-server) — ⭐ 159 · MIT — MCP Server for Plex to allow LLMs to converse with Plex.
 - [prometheus/prometheus-mcp](https://github.com/prometheus/prometheus-mcp) — ⭐ 138 · Apache-2.0 — MCP server for LLMs to interact with Prometheus
 - [VictoriaMetrics/mcp-victoriametrics](https://github.com/VictoriaMetrics/mcp-victoriametrics) — ⭐ 243 · Apache-2.0 — The implementation of Model Context Protocol \(MCP\) server for VictoriaMetrics
